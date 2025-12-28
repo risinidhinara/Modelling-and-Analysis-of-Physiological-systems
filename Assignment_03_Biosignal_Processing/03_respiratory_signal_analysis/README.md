@@ -1,6 +1,6 @@
-# Simulation of Respiratory Mechanics ✅
+# 03 — Respiratory signal analysis (Ventilation simulation) ✅
 
-**File:** `Simulation_of_Respiratory_Mechanics_210321X_2.pdf`
+**File:** `respiratory_mechanics_simulation.pdf`
 
 **Description:**
 A PDF describing simulations and models of respiratory mechanics. Add a short summary, simulation parameters, and any references here.
