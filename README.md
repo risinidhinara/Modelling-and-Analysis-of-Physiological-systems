@@ -6,8 +6,8 @@ This repository contains modeling and analysis documents for physiological syste
 
 - `Report_on_analysis_of_cardiac_physiology_210321X/` — Report on analysis of cardiac physiology
 - `Simulation_of_Respiratory_Mechanics_210321X_2/` — Simulation of respiratory mechanics
-- `03_Biosignal_Processing/` — Biosignal processing materials (cardiac and respiratory analysis)
-- `03_Neuronal_Dendrite_210321X/` — Dendrite voltage profiles (MATLAB script + assignment PDF)
+- `Biosignal_Processing/` — Biosignal processing materials (cardiac and respiratory analysis)
+- `Neuronal_Dendrite/` — Dendrite voltage profiles (MATLAB script + assignment PDF)
 
 ---
 
